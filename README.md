@@ -8,7 +8,8 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!;Let's+connect+%F0%9F%92%AC" alt="Typing SVG" />
+ <img src="![IMG_20220207_182819](https://github.com/user-attachments/assets/b42558a7-d95e-4230-8f6a-4e26a9eafbe7)
+" width="300" />
 </p>
 
 ## 🚀 About Me
