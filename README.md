@@ -1,99 +1,60 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Nency Maisuriya | Full Stack Developer</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"/>
-  <style>
-    body {
-      background: linear-gradient(to right, #f0f4f8, #ffffff);
-      font-family: 'Segoe UI', sans-serif;
-      color: #333;
-    }
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="dev-gif" />
+</p>
 
-    .profile-card {
-      background: #fff;
-      border-radius: 15px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-      padding: 40px 20px;
-      text-align: center;
-      margin: 50px auto;
-      max-width: 700px;
-    }
+<h1 align="center" style="color: yellow;"><strong>💛 NENCY MAISURIYA</strong></h1>
+<h3 align="center">💻 Passionate Full Stack Developer</h3>
 
-    .profile-card h1 {
-      font-size: 2.5rem;
-      font-weight: 700;
-    }
+---
 
-    .profile-card h3 {
-      color: #777;
-      margin-bottom: 20px;
-    }
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!;Let's+connect+%F0%9F%92%AC" alt="Typing SVG" />
+</p>
 
-    .profile-card a {
-      text-decoration: none;
-      color: #007bff;
-    }
+## 🚀 About Me
 
-    .icons {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 20px;
-      margin-top: 30px;
-    }
+Hi there! I'm <span style="color: yellow;"><strong>Nency Maisuriya</strong></span>, a Full Stack Developer skilled in building modern, scalable, and beautiful web applications. I enjoy turning complex problems into elegant solutions using clean and efficient code.
 
-    .icons img {
-      height: 60px;
-      transition: transform 0.3s;
-    }
+---
 
-    .icons img:hover {
-      transform: scale(1.15);
-    }
+## 🛠️ Tech Stack
 
-    footer {
-      text-align: center;
-      margin-top: 40px;
-      font-size: 0.9rem;
-      color: #888;
-    }
+### 💻 Languages & Frontend
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-20232A?style=for-the-badge&logo=ejs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-    @media (max-width: 576px) {
-      .icons img {
-        height: 50px;
-      }
-    }
-  </style>
-</head>
-<body>
+### 🧠 Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-  <div class="container">
-    <div class="profile-card">
-      <h1>👩‍💻 Nency Maisuriya</h1>
-      <h3>Full Stack Developer</h3>
-      <p><strong>Email:</strong> <a href="mailto:nencymaisuriya@gmail.com">nencymaisuriya@gmail.com</a></p>
-      <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/posts/nency-maisuriya-aba508252_seeking-fullstack-devloper-fresher-job-opportunities-activity-7196050471373942785-QpYA" target="_blank">View My Profile</a></p>
 
-      <hr class="my-4">
+---
 
-      <h4 class="mt-4">🛠️ My Skills</h4>
-      <div class="icons mt-3">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" title="Bootstrap" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" />
-      </div>
-    </div>
-  </div>
+## 📂 Projects
 
-  <footer>
-    &copy; 2025 Nency Maisuriya • Full Stack Developer
-  </footer>
+| 🧩 Project | 💡 Description |
+|-----------|----------------|
+| 🎬 [Movie Website](#) | A full-stack movie app with image upload, EJS templating, CRUD operations, and MongoDB. |
+| 🎨 [Art Gallery](#) | A platform to showcase and upload artworks, built using MVC architecture and Multer. |
+| 🏡 [Real Estate App](#) | A responsive web app for multi-user property listings with filters and broker profiles. |
 
-</body>
-</html>
+---
+
+## 📫 Let's Connect
+
+- **📧 Email:** nencymaisuriya@gmail.com  
+- **🔗 LinkedIn:** [linkedin.com/in/nency-maisuriya](https://www.linkedin.com/posts/nency-maisuriya-aba508252_seeking-fullstack-devloper-fresher-job-opportunities-activity-7196050471373942785-QpYA)
+
+---
+
