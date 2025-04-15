@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="color: yellow;"><strong>💛 NENCY MAISURIYA</strong></h1>
-<h3 align="center">💻 Passionate Full Stack Developer</h3>
+<h3 align="center" style="color: purple;">💻 Passionate Full Stack Developer</h3>
 
 ---
 
@@ -47,7 +47,6 @@ Hi there! I'm <span style="color: yellow;"><strong>Nency Maisuriya</strong></spa
 | 🧩 Project | 💡 Description |
 |-----------|----------------|
 | 🎬 [Movie Website](#) | A full-stack movie app with image upload, EJS templating, CRUD operations, and MongoDB. |
-| 🎨 [Art Gallery](#) | A platform to showcase and upload artworks, built using MVC architecture and Multer. |
 | 🏡 [Real Estate App](#) | A responsive web app for multi-user property listings with filters and broker profiles. |
 
 ---
