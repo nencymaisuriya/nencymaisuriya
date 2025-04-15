@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="color: yellow;"><strong>💛 NENCY MAISURIYA</strong></h1>
-<h3 align="center" style="color: purple;">💻 Passionate Full Stack Developer</h3>
+<h3 align="center">💻 Passionate Full Stack Developer</h3>
 
 ---
 
@@ -12,15 +12,13 @@
 " width="300" />
 </p>
 
-## 🚀 About Me
+##  About Me
 
 Hi there! I'm <span style="color: yellow;"><strong>Nency Maisuriya</strong></span>, a Full Stack Developer skilled in building modern, scalable, and beautiful web applications. I enjoy turning complex problems into elegant solutions using clean and efficient code.
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages & Frontend
+###  Languages & Frontend
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,7 +28,7 @@ Hi there! I'm <span style="color: yellow;"><strong>Nency Maisuriya</strong></spa
 ![EJS](https://img.shields.io/badge/EJS-20232A?style=for-the-badge&logo=ejs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🧠 Backend & Tools
+###  Backend & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -44,14 +42,14 @@ Hi there! I'm <span style="color: yellow;"><strong>Nency Maisuriya</strong></spa
 
 ## 📂 Projects
 
-| 🧩 Project | 💡 Description |
+| 🧩 Project
 |-----------|----------------|
 | 🎬 [Movie Website](#) | A full-stack movie app with image upload, EJS templating, CRUD operations, and MongoDB. |
 | 🏡 [Real Estate App](#) | A responsive web app for multi-user property listings with filters and broker profiles. |
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 - **📧 Email:** nencymaisuriya@gmail.com  
 - **🔗 LinkedIn:** [linkedin.com/in/nency-maisuriya](https://www.linkedin.com/posts/nency-maisuriya-aba508252_seeking-fullstack-devloper-fresher-job-opportunities-activity-7196050471373942785-QpYA)
