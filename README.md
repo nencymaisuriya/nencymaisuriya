@@ -1,4 +1,3 @@
-  <h2 align="center"> welcome to my GitHub profile</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="dev-gif" />
 </p>
@@ -44,8 +43,8 @@ Hi there! I'm <span style="color: yellow;"><strong>Nency Maisuriya</strong></spa
 ## 📂 Projects
 
 | 🧩 Project
-| 🎬 [Movie Website](#) | A full-stack movie app with image upload, EJS templating, CRUD operations, and MongoDB. |
-| 🏡 [Real Estate App](#) | A responsive web app for multi-user property listings with filters and broker profiles. |
+| 🎬 [Movie Website]() | A full-stack movie app with image upload, EJS templating, CRUD operations, and MongoDB. |
+| 🏡 [Real Estate App]() | A responsive web app for multi-user property listings with filters and broker profiles. |
 
 ---
 
