@@ -41,7 +41,7 @@ Hi there! I'm <span style="color: yellow;"><strong>Nency Maisuriya</strong></spa
 
 | 🧩 Project | Description |
 |-----------|-------------|
-| 🎬 [Movie Website](#) | A full-stack movie app with image upload, EJS templating, CRUD operations, and MongoDB. |
+| 🎬 [https://github.com/nencymaisuriya/node_js/tree/main/MoiveuseMVC](#) | A full-stack movie app with image upload, EJS templating, CRUD operations, and MongoDB. |
 | 🏡 [Real Estate App](#) | A responsive web app for multi-user property listings with filters and broker profiles. |
 
 
