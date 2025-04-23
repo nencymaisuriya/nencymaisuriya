@@ -37,16 +37,13 @@ Hi there! I'm <span style="color: yellow;"><strong>Nency Maisuriya</strong></spa
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 📁 Projects
 
----
+| 🧩 Project | Description |
+|-----------|-------------|
+| 🎬 [Movie Website](#) | A full-stack movie app with image upload, EJS templating, CRUD operations, and MongoDB. |
+| 🏡 [Real Estate App](#) | A responsive web app for multi-user property listings with filters and broker profiles. |
 
-## 📂 Projects
-
-| 🧩 Project
-| 🎬 [Movie Website]() | A full-stack movie app with image upload, EJS templating, CRUD operations, and MongoDB. |
-| 🏡 [Real Estate App]() | A responsive web app for multi-user property listings with filters and broker profiles. |
-
----
 
 ##  Let's Connect
 
